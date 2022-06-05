@@ -1,0 +1,103 @@
+
+header{
+    display:flex;
+    justify-content: space-between;
+    height:150px;
+    border-bottom: 9px solid #EAF8FF;
+}
+
+#language{
+    margin-left: 65px;
+}
+.border{
+    box-sizing: border-box;
+    width:110px;
+    height:60px;  
+    border:2px solid #0299E3 !important;  
+    border-radius: 32px; 
+    margin-left:62px;
+}
+
+span{
+    font-family:'Nobile', sans-serif;
+    font-weight:500;
+    font-size:24px;
+    color:#0299E3;    
+}
+
+a{
+    font-family:'Nobile', sans-serif;
+    font-weight:500;
+    font-size:24px;
+    color:#000000;  
+    padding-right: 60px;
+}
+
+button{
+    box-sizing: border-box;
+    width:194px;
+    height:60px;
+    background-color: #ffffff;
+    border:2px solid #0299E3;
+    border-radius: 32px;
+    margin-right: 80px;
+    font-family:'Nobile', sans-serif;
+    font-weight: 500;
+    font-size:24px;
+    color:#0299E3;
+}
+
+.col-8{
+    margin-left:-500px;
+    margin-right:350px;
+    margin-top:157px;
+}
+
+
+.title_text{
+    display:flex;
+    gap:10px;
+}
+
+.orange_text{
+    color:#F39801;
+    font-family:'Nobile', sans-serif;
+    font-weight: 700;
+    font-size: 64px; 
+}
+
+.blue_text{
+    font-family:'Nobile', sans-serif;
+    font-weight: 700;
+    font-size: 64px;
+    color:#0299E3;
+}
+
+.subtext_1{
+    font-family:'Nobile', sans-serif;
+    font-weight: 500;
+    font-size: 36px;
+    color:#83BF4F;
+    margin-top:49px;
+}
+
+.subtext_2{
+    font-family:'Nobile', sans-serif;
+    font-weight: 500;
+    font-size: 36px;
+    color:#83BF4F;
+    margin-top:-12px;   
+}
+
+.app_description{
+    font-family:'Nobile', sans-serif;
+    font-weight: 200;
+    font-size: 36px;
+    color:#6F7370;
+    margin-top:70px;
+}  
+
+img.pill_gif{
+    width:850px;
+    height:1000px;
+} 
