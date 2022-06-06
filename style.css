@@ -275,6 +275,7 @@ h3{
 
 .footer_headings{
     text-decoration: underline;
+    margin-top:67px;
 }
 
 .address , .subheadings{
@@ -286,7 +287,13 @@ h3{
 }
 
 
+.emailicon, .phoneicon, .texticon{
+    margin-right:30px;
+}
 
+.footer_copyright{
+    display:flex;
+}
 
 
 
