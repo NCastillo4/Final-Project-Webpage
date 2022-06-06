@@ -1,0 +1,158 @@
+*{
+  margin:0;
+  padding:0;
+}
+
+header{
+    display:flex;
+    justify-content: space-between;
+    height:100px;
+    border-bottom: 9px solid #EAF8FF;
+    margin-top:30px;
+}
+
+#language{
+    margin-left: 65px;
+}
+.language_buttonwithicon{
+    background-color: white;
+    font-family:'Nobile', sans-serif;
+    font-weight: 500;
+    font-size:24px;
+    color:#0299E3; 
+    box-sizing: border-box;
+    width:120px;
+    height:60px;  
+    border:2px solid #0299E3 !important;  
+    border-radius: 32px; 
+    margin-left:62px;
+}
+
+a{
+    font-family:'Nobile', sans-serif;
+    font-weight:500;
+    font-size:24px;
+    color:#000000;  
+    padding-right: 60px;
+}
+
+.signup{
+    box-sizing: border-box;
+    width:194px;
+    height:60px;
+    background-color: #ffffff;
+    border:2px solid #0299E3;
+    border-radius: 32px;
+    margin-right: 80px;
+    font-family:'Nobile', sans-serif;
+    font-weight: 500;
+    font-size:24px;
+    color:#0299E3;
+}
+
+.col-7{
+    margin-left:-320px;
+    /*margin-right:350px;*/
+    margin-top:157px;
+}
+
+
+.title_text{
+    display:flex;
+    gap:10px;
+}
+
+.orange_text{
+    color:#F39801;
+    font-family:'Nobile', sans-serif;
+    font-weight: 700;
+    font-size: 64px; 
+}
+
+.blue_text{
+    font-family:'Nobile', sans-serif;
+    font-weight: 700;
+    font-size: 64px;
+    color:#0299E3;
+}
+
+.subtext_1{
+    font-family:'Nobile', sans-serif;
+    font-weight: 500;
+    font-size: 36px;
+    color:#83BF4F;
+    margin-top:49px;
+}
+
+.subtext_2{
+    font-family:'Nobile', sans-serif;
+    font-weight: 500;
+    font-size: 36px;
+    color:#83BF4F;
+    margin-top:-12px;   
+}
+
+.app_description{
+    font-family:'Nobile', sans-serif;
+    font-weight: 200;
+    font-size: 36px;
+    color:#6F7370;
+    margin-top:70px;
+}  
+
+.col-5{
+    display:flex;
+    margin-top:-70px;
+    /*margin-right:-300px;*/
+}
+
+img.pill_gif{
+    width:850px;
+    height:1000px;
+    margin-left:150px;
+} 
+
+.calendar{
+    width:180px;
+    height:180px;
+    margin-top:570px;
+    margin-left: -160px;
+}
+
+#how_it_works{
+    background-color: #F39801;
+    height:1014px; 
+}
+
+.hiw_header{
+    font-family:'Nobile', sans-serif;
+    font-weight: 700;
+    font-size: 55px;
+    color: #ffffff;
+}
+
+.container-hiw{
+    display:flex;
+    justify-content: space-evenly;
+    margin-top:200px;
+
+}
+
+
+h3{
+    font-family:'Nobile', sans-serif;
+    font-weight: 500;
+    font-size: 32px;
+    text-align:center;
+    color: #ffffff;
+}
+
+.hiw_p{
+    font-family: 'Nobile', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;   
+    color: #ffffff;
+    display: center;
+    width:287px;
+}
